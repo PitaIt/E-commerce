@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1eoxTOgH+ZQkbh2CHDQ/ohGCFG+k0Hdf+uf3KnsX8j/A0RJTVjSH/N3Ci1K5APoAmDhNSkhOC2C/gzGciPlQ5A==",
+  "success": true,
+  "projectFilePath": "F:\\project\\E-commerce\\Users\\Users.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kryst\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
