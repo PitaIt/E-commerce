@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\project\\E-commerce\\Users\\Users.csproj": {}
+    "F:\\project\\E-commerce\\Products\\Products.csproj": {}
   },
   "projects": {
-    "F:\\project\\E-commerce\\Users\\Users.csproj": {
+    "F:\\project\\E-commerce\\Products\\Products.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\project\\E-commerce\\Users\\Users.csproj",
-        "projectName": "Users",
-        "projectPath": "F:\\project\\E-commerce\\Users\\Users.csproj",
+        "projectUniqueName": "F:\\project\\E-commerce\\Products\\Products.csproj",
+        "projectName": "Products",
+        "projectPath": "F:\\project\\E-commerce\\Products\\Products.csproj",
         "packagesPath": "C:\\Users\\kryst\\.nuget\\packages\\",
-        "outputPath": "F:\\project\\E-commerce\\Users\\obj\\",
+        "outputPath": "F:\\project\\E-commerce\\Products\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kryst\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,28 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.11.1, )"
